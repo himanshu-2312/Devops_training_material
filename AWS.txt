@@ -11,4 +11,4 @@ A solutions architect is designing a solution where users will be directed to a 
 primary website's
 DNS records are hosted in Amazon Route 53 where their domain is pointing to an Application Load Balancer (ALB).
 Which con
-
+last line added to code 
